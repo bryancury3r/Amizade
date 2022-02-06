@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Meio de como fazer novas amizades de forma organica e verdadeiras.
+Meio de como fazer novas amizades de forma organica e verdadeira.
 
 
 
